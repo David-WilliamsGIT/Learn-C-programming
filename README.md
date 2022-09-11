@@ -1,2 +1,2 @@
 # LearnC
-For college and learning C programming
+For University and learning C programming
